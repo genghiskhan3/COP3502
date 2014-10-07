@@ -22,6 +22,6 @@ class TestPentagonalNumber{
 	}
 
 	public static int getPentagonalNumber(int n){
-		return ((3 * n) - 1) / 2;
+		return (n *((3 * n) - 1)) / 2;
 	}
 }

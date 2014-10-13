@@ -1,0 +1,10 @@
+/// Memory for an array
+
+Memory is not allocated to an array when it is declared. The only time that memory is allocated to an array
+is when it is initialized
+
+
+/// Printout of the following code
+
+x is 60
+the size of the array is 10

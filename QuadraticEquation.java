@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 class QuadraticEquation{
 	private int a, b, c;
